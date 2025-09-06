@@ -1,0 +1,5 @@
+{
+  "name": "Draw to Image AI",
+  "description": "A web application that allows users to draw on a canvas, add text prompts, and use the Gemini API (nano-banana model) to generate images from their creations. Features include drawing tools, image uploading, and post-generation options like downloading or further editing.",
+  "requestFramePermissions": []
+}
